@@ -1,6 +1,5 @@
 ### Hi there, I'm Rohit
 
-## I am a Frontend Developer.
 
 
 # 💻 Tech Stack:
